@@ -1,0 +1,3 @@
+/home/rw/localdev/learnCMake/build/CMakeFiles/rebuild_cache.dir
+/home/rw/localdev/learnCMake/build/CMakeFiles/rtest.dir
+/home/rw/localdev/learnCMake/build/CMakeFiles/edit_cache.dir
